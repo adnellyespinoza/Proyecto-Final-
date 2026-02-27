@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 24 14:03:03 2026
 
-@author: CAJA01
+@author: Adnelly Espinoza
 """
 
 # Juego: Piedra, Papel o Tijera
